@@ -1,0 +1,12 @@
+# ninja log v5
+362	14489	7911413067352695	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bf54fa8e608827eb
+349	14593	7911413067337394	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4f92d04ad189483f
+116	14784	7911413070424923	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	3163276e8618d5eb
+104	15098	7911413074375358	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	aaa9742be8a9f3f6
+212	16636	7911413087511518	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	dda18bf900414422
+14811	17130	7911413093875311	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	234ac2895abab589
+9	17260	7911413095626597	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	232649c85d1f986b
+17131	17587	7911413100298237	C:/unity practice/Chess_Game_1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/624l4i3x/obj/arm64-v8a/libswappywrapper.so	1af252e85936deaf
+14511	18804	7911413112369116	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d5fa463f4f57eeea
+14594	19185	7911413116229812	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	94febb43e0c76392
+19186	19388	7911413118352542	C:/unity practice/Chess_Game_1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/624l4i3x/obj/arm64-v8a/libgame.so	49527a58b4c81aad
